@@ -1,4 +1,4 @@
 # Notebooks Demos
 
- - `analyzing_hurricanes.ipynb`:  A demo using the hurdat database that plots
- hurricane tracks, intensities and does some simple statistics.
+ - `analyzing_hurricanes.ipynb`:  Demos that look at modeling wind and pressure
+   fields, analysis of the hurdat2 database, and some simple statistics.
